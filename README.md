@@ -2,7 +2,7 @@
 
 ### Software Engineer | AI/ML Enthusiast | Data Scientist
 
-saurabh.varpe01@gmail.com | Nashik, Maharashtra | [GitHub](https://github.com/Saurabhvarpe21)| [LinkedIn](https://www.linkedin.com/in/saurabh-varpe/) | Portfolio
+saurabh.varpe01@gmail.com | Nashik, Maharashtra | [GitHub](https://github.com/Saurabhvarpe21) | [LinkedIn](https://www.linkedin.com/in/saurabh-varpe/) | Portfolio
 
 ---
 
