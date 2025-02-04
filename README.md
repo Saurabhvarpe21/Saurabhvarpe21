@@ -8,7 +8,7 @@ saurabh.varpe01@gmail.com | Nashik, Maharashtra | [GitHub](https://github.com/Sa
 
 ## 👨‍💻 About Me
 
-I am a Software Engineer with 3+ years of experience applying cutting-edge AI/ML solutions to solve complex business challenges. I specialize in generative models, NLP chatbots, and data-driven decision-making. My expertise in data analysis, visualization, and model implementation allows me to contribute to AI/ML advancements at a progressive organization.
+I am a Software Engineer with 4+ years of experience applying cutting-edge AI/ML solutions to solve complex business challenges. I specialize in generative models, NLP chatbots, and data-driven decision-making. My expertise in data analysis, visualization, and model implementation allows me to contribute to AI/ML advancements at a progressive organization.
 
 ---
 
@@ -23,11 +23,14 @@ I am a Software Engineer with 3+ years of experience applying cutting-edge AI/ML
 - Collaborated with cross-functional teams to implement **machine learning** and **generative AI** solutions, enhancing business value.
 - Contributed to a **Natural Language Processing (NLP)** project.
 
-### Instructor Python Data Science | **NMD Pvt Ltd**  
+### Junior Software Engineer   | **Unibest Techno Solution, Pune **  
 **Jan 2021 – Oct 2022**
 
-- Instructed Python and Data Science courses, covering **data analysis**, **machine learning**, and **statistical modeling** using libraries like Pandas, NumPy, and Scikit-learn.
-- Led hands-on projects focused on **predictive modeling**, **data-driven decision making**, and AI techniques.
+- Led NX12 integration, automating processes to enhance Product Lifecycle Management (PLM). 
+- Developed an Azure-based chatbot to improve communication and streamline support processes. 
+- Created Python automation solutions for data integration and system optimization. 
+- Utilized Python libraries (Pandas, NumPy) and automation tools to streamline processes. 
+- Engineered and automated mechanical systems using Python to optimize operational efficiency. 
 
 ---
 
