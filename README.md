@@ -22,16 +22,6 @@ I am a Software Engineer with 4+ years of experience applying cutting-edge AI/ML
 - Provided **data insights** through visualizations for both technical and non-technical stakeholders, driving actionable results.
 - Collaborated with cross-functional teams to implement **machine learning** and **generative AI** solutions, enhancing business value.
 - Contributed to a **Natural Language Processing (NLP)** project.
-
-### Junior Software Engineer   | **Unibest Techno Solution, Pune **  
-**Jan 2021 – Oct 2022**
-
-- Led NX12 integration, automating processes to enhance Product Lifecycle Management (PLM). 
-- Developed an Azure-based chatbot to improve communication and streamline support processes. 
-- Created Python automation solutions for data integration and system optimization. 
-- Utilized Python libraries (Pandas, NumPy) and automation tools to streamline processes. 
-- Engineered and automated mechanical systems using Python to optimize operational efficiency. 
-
 ---
 
 ## 🛠 Skills
