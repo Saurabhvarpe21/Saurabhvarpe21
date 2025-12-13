@@ -8,7 +8,7 @@ saurabh.varpe01@gmail.com | Nashik, Maharashtra | [GitHub](https://github.com/Sa
 
 ## 👨‍💻 About Me
 
-I am a Software Engineer with 4+ years of experience applying cutting-edge AI/ML solutions to solve complex business challenges. I specialize in generative models, NLP chatbots, and data-driven decision-making. My expertise in data analysis, visualization, and model implementation allows me to contribute to AI/ML advancements at a progressive organization.
+I am a Software Engineer with 3+ years of experience applying cutting-edge AI/ML solutions to solve complex business challenges. I specialize in generative models, NLP chatbots, and data-driven decision-making. My expertise in data analysis, visualization, and model implementation allows me to contribute to AI/ML advancements at a progressive organization.
 
 ---
 
